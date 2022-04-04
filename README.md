@@ -1,7 +1,7 @@
 # tflite_benchmark
 - tflite benchmark notebook
 
-# enviroment
+# environment
 - linux 
 - x86
 
